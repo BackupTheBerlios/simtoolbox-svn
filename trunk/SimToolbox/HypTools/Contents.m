@@ -1,0 +1,1 @@
+% SimulatorToolbox:HypTools%% Utility functions used to create an Simulator hyperspectral image from% the raw output of the hypespectral camera%% HypCreateSimg.m - main function that creates a .Simg file from an% hyperspectral acquisition sequence.% Copyright (c) 1998, 1999 David Brainard & Philippe Longere. All rights reserved.

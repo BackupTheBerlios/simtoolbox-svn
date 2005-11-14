@@ -1,0 +1,1 @@
+function str = SimOneUp(str)% str = SimOneUp(str)%% Set the 1st character of the string to uppercase,% unless string is 'S'.%% 11/04/98	pxl Wrote it.% Copyright (c) 1999 David Brainard and Philippe Longere.   All rights reserved.if (~strcmp(str,'S'))	str(1) = upper(str(1));end

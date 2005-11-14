@@ -1,0 +1,1 @@
+function oneWeights = BCCExtractOneWeights(i,fullWeights,M)oneWeights = fullWeights((i-1)*M+1:i*M,1);

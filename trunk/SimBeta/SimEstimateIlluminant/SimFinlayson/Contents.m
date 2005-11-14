@@ -1,0 +1,1 @@
+% SimulatorToolbox:SimFinlayson%% Methods for recovery of illuminant%%   SimComputeCorrelationTable   - Compute the table used by algorithm.%   SimFinlaysonIllum            - Implementation of the Finlayson algorithm.% Copyright (c) 1998 by David Brainard & Philippe Longere

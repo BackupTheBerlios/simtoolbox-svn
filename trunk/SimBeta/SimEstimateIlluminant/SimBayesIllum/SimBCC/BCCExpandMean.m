@@ -1,0 +1,1 @@
+function uout = BCCExpandMean(uin,nExpand)% uout = BCCExpandMean(uin,nExpand)% Replicate the passed mean vector.% 11/08/98     pxl		Changed names of functions% Copyright (c) 1999 David Brainard and Philippe Longere.   All rights reserved.[m,null] = size(uin);uout = zeros(m*nExpand,1);for i = 1:nExpand  uout((i-1)*m+1:i*m) = uin;end

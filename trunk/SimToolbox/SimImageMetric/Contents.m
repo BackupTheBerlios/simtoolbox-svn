@@ -1,0 +1,1 @@
+% SimulatorToolbox:SimImageMetric%% Image metric routines.%%   SimComputeDeltaELab.m       - Compute standard LAB image metric.%   SimSCIELAB.m                - Compute SCIELAB image metric.% Copyright (c) 1998, 1999 David Brainard & Philippe Longere. All rights reserved.

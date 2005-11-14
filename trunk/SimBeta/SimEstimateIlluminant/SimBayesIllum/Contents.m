@@ -1,0 +1,1 @@
+% SimulatorToolbox%%  Bayesian Color Correction functions%%   SimBayesIllum               - Run Brainard/Freeman algorithm.%   SimBCC                      - Bayes color constancy functions.% Copyright (c) 1998-2002 by David Brainard & Philippe Longere

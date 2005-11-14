@@ -1,0 +1,1 @@
+function x = BCCFindXGrayWorld(y,colorPriors,sensors)% x = BCCFindXGrayWorld(y,colorPriors,sensors)%% Find the gray world illuminant estimate.%% 8/12/02  dhb  Wrote it.% Find mean sensor responseu_y = mean(y,2);u_surface_spd = colorPriors.sur.B*colorPriors.sur.u;RS = sensors.R*diag(u_surface_spd);x = (RS*colorPriors.light.B)\u_y;
