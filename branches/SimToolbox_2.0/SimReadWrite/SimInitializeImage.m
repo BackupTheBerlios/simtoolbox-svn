@@ -1,0 +1,1 @@
+function [image] = SimInitializeImage% [image] = SimInitializeImage%% Initialize an image structure with blanks.% % 7/10/98  pxl  Wrote it.% 1/14/99  dhb  Shortened name.% Copyright (c) 1999 David Brainard and Philippe Longere.   All rights reserved.image.cameraFile='';image.monitorFile='';image.exposureTime=1;image.numberHistory=0;image.imageType='none';

@@ -1,0 +1,1 @@
+% SimulatorToolbox:SimConfig%% Simulator configuration utilties.%%   SimDefineImagePath          - Define where the images are on this system.% Copyright (c) 1998, 1999 David Brainard & Philippe Longere. All rights reserved.

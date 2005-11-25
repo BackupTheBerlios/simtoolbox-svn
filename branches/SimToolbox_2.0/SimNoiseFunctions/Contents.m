@@ -1,0 +1,1 @@
+% SimulatorToolbox:SimNoise%% Routines that implement noise simulation.%%   SimNoise                    - Simulate camera noise, handles different types.%   SimQuantize                 - Quantize continuous camera output.% Copyright (c) 1998, 1999 David Brainard & Philippe Longere. All rights reserved.

@@ -1,0 +1,1 @@
+% SimulatorToolbox:SimSubspace%% Suspace method for recovery of illuminant%%   SimSubspaceIllum            - Subspace illuminant estimation.%   SimConstructLS              - Support routine.%   SimConstructPisur           - Another support routine.% Copyright (c) 1998 by David Brainard & Philippe Longere

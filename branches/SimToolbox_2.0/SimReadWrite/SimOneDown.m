@@ -1,0 +1,1 @@
+function str = SimOneDown(str)% str = SimOneDown(str)%% Set the 1st character of the string to lowercase,% unless string is 'S'.%% 11/04/98	pxl Wrote it.% Copyright (c) 1999 David Brainard and Philippe Longere.   All rights reserved.if (~strcmp(str,'S'))	str(1) = lower(str(1));end
